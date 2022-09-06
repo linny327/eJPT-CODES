@@ -1,0 +1,12 @@
+git config --global user.name "linny327"
+git config --global user.email "linnymaruve@gmail.com"
+
+git config --global core.editor "code --wait" --close and open new window
+
+git config --global core.autocrlf true
+ git config --global --list
+
+extension 
+git history
+gitlens
+git project manager
